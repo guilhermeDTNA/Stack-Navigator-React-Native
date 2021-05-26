@@ -4,7 +4,7 @@ Após instalar o expo, basta executar os comandos abaixo para instalar as depend
 
 ```console
 
-$ expo install --force
+$ npm install --force
 $ expo start
 
 ```
