@@ -1,13 +1,10 @@
-Projeto Expo com o component Stack-Navigator do React Native para fins de estudo.
+<h2>Projeto Expo com o component Stack-Navigator do React Native para fins de estudo.</h2>
 
-Após instalar o expo e criar o projeto, basta incluir os arquivos no mesmo e executá-lo com o comando 'expo start'.
+Após instalar o expo, basta executar os comandos abaixo para instalar as dependências e executar o projeto:
 
-Comandos para instalação dos pacotes via expo:
+```console
 
-expo install react-navigation react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+$ expo install --force
+$ expo start
 
-expo install react-navigation-drawer
-
-expo install react-navigation-tabs
-
-expo install react-navigation-stack
+```
